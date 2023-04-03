@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Motilal Nehru National Institute of Technology.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at Motilal Nehru National Institute of Technology,Allahabad,India.
 - 💼 &nbsp; Working as a Web developer at E-cell MNNIT.
 - 🌱 &nbsp; Learning more about Java Development and System Design.
 - ✍️ &nbsp; Pursuing Content Creation as hobbies/side hustles.
