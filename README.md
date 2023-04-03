@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://[www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/shivani-saraswat-0a35a6201/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shivanisaraswat17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:shivani.20204188@mnnit.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://[www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/shivani-saraswat-0a35a6201/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivani%20Saraswat%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/shivanisaraswat17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shivanisaraswat17-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:shivani.20204188@mnnit.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-shivani.20204188@mnnit.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
