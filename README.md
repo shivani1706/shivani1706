@@ -9,6 +9,7 @@
 - 💼 &nbsp; Working as a Web developer at E-cell MNNIT.
 - 🌱 &nbsp; Learning more about Java Development and System Design.
 - ✍️ &nbsp; Pursuing Content Creation as hobbies/side hustles.
+- As a passionate developer, I'm always on the lookout for new challenges and opportunities to learn. Whether it's developing new applications or contributing to existing projects, I'm constantly striving to improve my skills and make a meaningful impact in the tech community.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
